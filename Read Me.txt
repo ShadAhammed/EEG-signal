@@ -1,2 +1,0 @@
-A support vector model is designed using RBF kernel. Epileptic seizure patients data from Chinldren Hospital Boston was taken.
-The model is built with both statistical and enrgy data of a specified epoch.
