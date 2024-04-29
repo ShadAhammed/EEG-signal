@@ -10,7 +10,7 @@ Data is taken from CHB-MIT Scalp EEG Database. The CHB-MIT Scalp EEG Database, a
 The program is designed to develop machine learning algorithms that can detect if a patient had
 a seizure attack for a time duration. Seizure data collected from CHB-MIT is vast and had a record
 for multiple patients. The goal was to check if it can be patient-unspecific. Data imbalance was present.
-So SMOTE and RUS was used to balance the data.
+So SMOTE and Random Sampling was used to balance the data.
 
 ## Author
 
